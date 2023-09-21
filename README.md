@@ -4,7 +4,7 @@
 I'm Guilherme, and welcome to my GitHub profile, I hope I can contribute in some way with your knowledge.
 
 * 💻 Data Engineer Senior
-* 🏢 Currently working for <a href="https://a3data.com.br/"> A3Data </a>
+* 🏢 Currently working for <a href="https://www.zup.com.br/"> Zup IT </a>
 * 🌎 Based in Curitiba, Brazil
 * 👩‍💻 More about me: <a href="https://www.linkedin.com/in/guilherme-augusto-esplugues-01b15185/"> LinkedIn </a>
 * 🌱 I’m currently learning AWS (for S.A. certification), Data Quality, and Data Governance. 
