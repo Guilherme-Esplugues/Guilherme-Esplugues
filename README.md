@@ -1,4 +1,3 @@
-
 #### Hello everyone!
 * **
 I'm Guilherme, and welcome to my GitHub profile, I hope I can contribute in some way with your knowledge.
